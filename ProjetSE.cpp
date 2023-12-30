@@ -95,7 +95,7 @@ int main() {
     }
 
     
-    printf("Matrice résultante A :\n");
+    printf("Matrice resultante A :\n");
     for (int i = 0; i < n1; i++) {
         for (int j = 0; j < m2; j++) {
             printf("%d ", A[i][j]);
