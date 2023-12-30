@@ -1,3 +1,7 @@
+BENARBIA 
+AIMIM
+GROUPE 1
+
 
 QUESTION1: Structures de données :
 
@@ -13,4 +17,4 @@ Utilisation de sémaphores pour gérer la capacité du tampon.
 QUESTION3: Risques :
 
 Conditions de concurrence entre threads producteurs et consommateurs.
-Risque de débordement du tampon si sa capacité n'est pas suffisante.
+Risque de débordement du tampon si sa capacité n'est pas suffisante.   
